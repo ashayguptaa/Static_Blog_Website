@@ -43,12 +43,9 @@ project-folder
 ---
 
 ## 🖼 Website Preview
-📌 *(Add screenshot below)*  
-
-Upload screenshot to repo and replace file name:
+![Website Preview]("C:\Users\gupta\Pictures\Screenshots\Screenshot 2026-02-25 220739.png")
 
 ```
-<img width="1897" height="977" alt="Screenshot 2026-02-25 220739" src="https://github.com/user-attachments/assets/db512d4a-de51-4235-bad2-a4071c55a604" />
 
 ```
 
