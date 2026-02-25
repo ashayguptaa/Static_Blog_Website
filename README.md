@@ -63,7 +63,7 @@ project-folder
 
 ## 👨‍💻 Author
 Ashay Gupta
-GitHub: https://github.com/yourusername
+GitHub: https://github.com/ashayguptaa
 
 ---
 
