@@ -48,16 +48,12 @@ project-folder
 Upload screenshot to repo and replace file name:
 
 ```
-<img width="1892" height="973" alt="image" src="https://github.com/user-attachments/assets/c24c2a65-21c5-424b-a88f-d024c4c93130" />
+<img width="1897" height="977" alt="Screenshot 2026-02-25 220739" src="https://github.com/user-attachments/assets/db512d4a-de51-4235-bad2-a4071c55a604" />
 
 ```
 
 ---
 
-## 🚀 Live Demo
-🔗 https://your-live-link-here.com
-
----
 
 ## 📚 What I Learned
 - Structuring layouts with HTML
