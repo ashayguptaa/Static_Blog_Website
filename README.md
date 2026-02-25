@@ -42,15 +42,6 @@ project-folder
 
 ---
 
-## 🖼 Website Preview
-![Website Preview]("C:\Users\gupta\Pictures\Screenshots\Screenshot 2026-02-25 220739.png")
-
-```
-
-```
-
----
-
 
 ## 📚 What I Learned
 - Structuring layouts with HTML
@@ -71,7 +62,7 @@ project-folder
 ---
 
 ## 👨‍💻 Author
-**Your Name**  
+Ashay Gupta
 GitHub: https://github.com/yourusername
 
 ---
